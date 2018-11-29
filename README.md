@@ -63,7 +63,7 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 # Kaynaklar
 
-## European Commission Press releases database
+## European Commission Press Releases Database
 http://europa.eu/rapid/
 
 ## T.C. Dışişleri Bakanlığı Avrupa Birliği Başkanlığı
