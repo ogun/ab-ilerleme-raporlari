@@ -79,3 +79,11 @@
 ## 1998 İlerleme Raporu / 04.11.1998
 [Türkçe](raporlar/1998.tr.pdf)
 [English](raporlar/1998.en.pdf)
+
+# Kaynaklar
+
+## European Commission Press releases database
+http://europa.eu/rapid/
+
+## T.C. Dışişleri Bakanlığı Avrupa Birliği Başkanlığı
+https://ab.gov.tr/
