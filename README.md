@@ -30,6 +30,8 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 ## 2008 İlerleme Raporu
 05.11.2008 tarihinde yayınlanmıştır. [Türkçe](raporlar/2008.tr.pdf) / [English](raporlar/2008.en.pdf)
+* Ekler
+    * [Enlargement Strategy and Main Challenges](ekler/2008-enlargement-strategy-and-main-challenges.en.pdf)
 
 ## 2007 İlerleme Raporu
 06.11.2007 tarihinde yayınlanmıştır. [Türkçe](raporlar/2007.tr.pdf) / [English](raporlar/2007.en.pdf)
