@@ -39,6 +39,8 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 ## 2005 İlerleme Raporu
 09.11.2005 tarihinde yayınlanmıştır. [Türkçe](raporlar/2005.tr.pdf) / [English](raporlar/2005.en.pdf)
+* Ekler
+    * [Enlargement strategy paper](ekler/2005-enlargement-strategy-paper.en.pdf)
 
 ## 2004 İlerleme Raporu
 06.10.2004 tarihinde yayınlanmıştır. [Türkçe](raporlar/2004.tr.pdf) / [English](raporlar/2004.en.pdf)
