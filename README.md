@@ -15,6 +15,9 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 ## 2013 İlerleme Raporu
 16.10.2013 tarihinde yayınlanmıştır. [Türkçe](raporlar/2013.tr.pdf) / [English](raporlar/2013.en.pdf)
+* Ekler
+    * [Enlargement Strategy and Main Challenges](ekler/2013-enlargement-strategy-and-main-challenges.en.pdf)
+    * [Citizen's Summary](ekler/2013-citizen-s-summary.en.pdf)
 
 ## 2012 İlerleme Raporu
 10.10.2012 tarihinde yayınlanmıştır. [Türkçe](raporlar/2012.tr.pdf) / [English](raporlar/2012.en.pdf)
