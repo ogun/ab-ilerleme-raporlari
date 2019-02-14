@@ -17,41 +17,41 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 ## 2014 İlerleme Raporu
 08.10.2014 tarihinde yayınlanmıştır. [Türkçe](raporlar/2014.tr.pdf) / [English](raporlar/2014.en.pdf)
 * Ekler
-    * [Enlargement Strategy and Main Challenges](ekler/2014-enlargement-strategy-and-main-challenges.en.pdf)
     * [Citizen's Summary](ekler/2014-citizen-s-summary.en.pdf)
+    * [Enlargement Strategy and Main Challenges](ekler/2014-enlargement-strategy-and-main-challenges.en.pdf)
 
 ## 2013 İlerleme Raporu
 16.10.2013 tarihinde yayınlanmıştır. [Türkçe](raporlar/2013.tr.pdf) / [English](raporlar/2013.en.pdf)
 * Ekler
-    * [Enlargement Strategy and Main Challenges](ekler/2013-enlargement-strategy-and-main-challenges.en.pdf)
     * [Citizen's Summary](ekler/2013-citizen-s-summary.en.pdf)
+    * [Enlargement Strategy and Main Challenges](ekler/2013-enlargement-strategy-and-main-challenges.en.pdf)
 
 ## 2012 İlerleme Raporu
 10.10.2012 tarihinde yayınlanmıştır. [Türkçe](raporlar/2012.tr.pdf) / [English](raporlar/2012.en.pdf)
 * Ekler
-    * [Enlargement Strategy and Main Challenges](ekler/2012-enlargement-strategy-and-main-challenges.en.pdf)
     * [Conclusions on Turkey](ekler/2012-conclusions-on-turkey.en.pdf)
+    * [Enlargement Strategy and Main Challenges](ekler/2012-enlargement-strategy-and-main-challenges.en.pdf)
     * [Multi-Annual Indicative Financial Framework](ekler/2012-multi-annual-indicative-financial-framework.en.pdf)
 
 ## 2011 İlerleme Raporu
 12.10.2011 tarihinde yayınlanmıştır. [Türkçe](raporlar/2011.tr.pdf) / [English](raporlar/2011.en.pdf)
 * Ekler
-    * [Enlargement Strategy and Main Challenges](ekler/2011-enlargement-strategy-and-main-challenges.en.pdf)
     * [Conclusions on Turkey](ekler/2011-conclusions-on-turkey.en.pdf)
+    * [Enlargement Strategy and Main Challenges](ekler/2011-enlargement-strategy-and-main-challenges.en.pdf)
     * [Multi-Annual Indicative Financial Framework](ekler/2011-multi-annual-indicative-financial-framework.en.pdf)
 
 ## 2010 İlerleme Raporu
 09.11.2010 tarihinde yayınlanmıştır. [Türkçe](raporlar/2010.tr.pdf) / [English](raporlar/2010.en.pdf)
 * Ekler
-    * [Enlargement Strategy and Main Challenges](ekler/2010-enlargement-strategy-and-main-challenges.en.pdf)
     * [Conclusions on Turkey](ekler/2010-conclusions-on-turkey.en.pdf)
+    * [Enlargement Strategy and Main Challenges](ekler/2010-enlargement-strategy-and-main-challenges.en.pdf)
     * [Multi-Annual Indicative Financial Framework](ekler/2010-multi-annual-indicative-financial-framework.en.pdf)
 
 ## 2009 İlerleme Raporu
 14.10.2009 tarihinde yayınlanmıştır. [Türkçe](raporlar/2009.tr.pdf) / [English](raporlar/2009.en.pdf)
 * Ekler
-    * [Enlargement Strategy and Main Challenges](ekler/2009-enlargement-strategy-and-main-challenges.en.pdf)
     * [Conclusions on Turkey](ekler/2009-conclusions-on-turkey.en.pdf)
+    * [Enlargement Strategy and Main Challenges](ekler/2009-enlargement-strategy-and-main-challenges.en.pdf)
     * [Multi-Annual Indicative Financial Framework For 2011-2013](ekler/2009-multi-annual-indicative-financial-framework-for-2011-2013.en.pdf)
 
 ## 2008 İlerleme Raporu
@@ -67,8 +67,8 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 ## 2006 İlerleme Raporu
 08.11.2006 tarihinde yayınlanmıştır. [Türkçe](raporlar/2006.tr.pdf) / [English](raporlar/2006.en.pdf)
 * Ekler
-    * [Enlargement Strategy and Main Challenges](ekler/2006-enlargement-strategy-and-main-challenges.en.pdf)
     * [Accession Partnership with the Republic of Turkey and repealing Decision](ekler/2006-accession-partnership-with-the-republic-of-turkey-and-repealing-decision.en.pdf)
+    * [Enlargement Strategy and Main Challenges](ekler/2006-enlargement-strategy-and-main-challenges.en.pdf)
 
 ## 2005 İlerleme Raporu
 09.11.2005 tarihinde yayınlanmıştır. [Türkçe](raporlar/2005.tr.pdf) / [English](raporlar/2005.en.pdf)
@@ -78,8 +78,8 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 ## 2004 İlerleme Raporu
 06.10.2004 tarihinde yayınlanmıştır. [Türkçe](raporlar/2004.tr.pdf) / [English](raporlar/2004.en.pdf)
 * Ekler
-    * [Recommendation of the European Commission on Turkey’s progress towards accession](ekler/2004-recommendation-of-the-european-commission-on-turkeys-progress-towards-accession.en.pdf)
     * [Issues arising from Turkey's membership perspective](ekler/2004-issues-arising-from-turkey-s-membership-perspective.en.pdf)
+    * [Recommendation of the European Commission on Turkey’s progress towards accession](ekler/2004-recommendation-of-the-european-commission-on-turkeys-progress-towards-accession.en.pdf)
 
 ## 2003 İlerleme Raporu
 05.11.2003 tarihinde yayınlanmıştır. [Türkçe](raporlar/2003.tr.pdf) / [English](raporlar/2003.en.pdf)
