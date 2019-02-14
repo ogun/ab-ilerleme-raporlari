@@ -42,6 +42,9 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 ## 2004 İlerleme Raporu
 06.10.2004 tarihinde yayınlanmıştır. [Türkçe](raporlar/2004.tr.pdf) / [English](raporlar/2004.en.pdf)
+* Ekler
+    * [Recommendation of the European Commission on Turkey’s progress towards accession](ekler/2004-recommendation-of-the-european-commission-on-turkeys-progress-towards-accession.en.pdf)
+    * [Issues arising from Turkey's membership perspective](ekler/2004-issues-arising-from-turkey-s-membership-perspective.en.pdf)
 
 ## 2003 İlerleme Raporu
 05.11.2003 tarihinde yayınlanmıştır. [Türkçe](raporlar/2003.tr.pdf) / [English](raporlar/2003.en.pdf)
