@@ -6,6 +6,8 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 ## 2016 İlerleme Raporu
 09.11.2016 tarihinde yayınlanmıştır. [Türkçe](raporlar/2016.tr.pdf) / [English](raporlar/2016.en.pdf)
+* Ekler
+    * [Communication on EU Enlargement Policy](ekler/2016-communication-on-eu-enlargement-policy.en.pdf)
 
 ## 2015 İlerleme Raporu
 10.11.2015 tarihinde yayınlanmıştır. [Türkçe](raporlar/2015.tr.pdf) / [English](raporlar/2015.en.pdf)
