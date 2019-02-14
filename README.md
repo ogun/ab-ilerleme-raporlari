@@ -36,6 +36,9 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 ## 2006 İlerleme Raporu
 08.11.2006 tarihinde yayınlanmıştır. [Türkçe](raporlar/2006.tr.pdf) / [English](raporlar/2006.en.pdf)
+* Ekler
+    * [Enlargement Strategy and Main Challenges](ekler/2006-enlargement-strategy-and-main-challenges.en.pdf)
+    * [Accession Partnership with the Republic of Turkey and repealing Decision](ekler/2006-accession-partnership-with-the-republic-of-turkey-and-repealing-decision.en.pdf)
 
 ## 2005 İlerleme Raporu
 09.11.2005 tarihinde yayınlanmıştır. [Türkçe](raporlar/2005.tr.pdf) / [English](raporlar/2005.en.pdf)
