@@ -24,6 +24,10 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 ## 2010 İlerleme Raporu
 09.11.2010 tarihinde yayınlanmıştır. [Türkçe](raporlar/2010.tr.pdf) / [English](raporlar/2010.en.pdf)
+* Ekler
+    * [Enlargement Strategy and Main Challenges](ekler/2010-enlargement-strategy-and-main-challenges.en.pdf)
+    * [Conclusions on Turkey](ekler/2010-conclusions-on-turkey.en.pdf)
+    * [Multi-Annual Indicative Financial Framework](ekler/2010-multi-annual-indicative-financial-framework.en.pdf)
 
 ## 2009 İlerleme Raporu
 14.10.2009 tarihinde yayınlanmıştır. [Türkçe](raporlar/2009.tr.pdf) / [English](raporlar/2009.en.pdf)
