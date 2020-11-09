@@ -4,7 +4,7 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 ## 2020 İlerleme Raporu
 
-06.10.2020 tarihinde yayınlanmıştır. [English](raporlar/2020.en.pdf)
+06.10.2020 tarihinde yayınlanmıştır. [Türkçe](raporlar/2020.tr.pdf) / [English](raporlar/2020.en.pdf)
 
 ## 2019 İlerleme Raporu
 
