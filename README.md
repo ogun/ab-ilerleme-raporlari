@@ -2,6 +2,10 @@
 
 Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerlemeleri veya bu alanda gözlemlediği eksiklileri yıllık bazda ilerleme raporlarıyla değerlendirir. Komisyon, ilerleme raporlarının oluşturulması safhasında, aday ülke nezdindeki AB Delegasyonu'ndan, sivil toplum kuruluşlarından ve aday ülkenin kamu kurumlarından resmi olarak elde ettiği geri bildirimlerden istifade eder.
 
+## 2021 İlerleme Raporu
+
+19.10.2020 tarihinde yayınlanmıştır. [English](raporlar/2021.en.pdf)
+
 ## 2020 İlerleme Raporu
 
 06.10.2020 tarihinde yayınlanmıştır. [Türkçe](raporlar/2020.tr.pdf) / [English](raporlar/2020.en.pdf)
