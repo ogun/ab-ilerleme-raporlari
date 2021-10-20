@@ -157,4 +157,4 @@ https://ab.gov.tr/
 
 ## European Commission, Enlargement Policy, Strategy and Reports
 
-https://ec.europa.eu/neighbourhood-enlargement/countries/package_en
+https://ec.europa.eu/neighbourhood-enlargement/enlargement-policy/negotiations-status/turkey_en
