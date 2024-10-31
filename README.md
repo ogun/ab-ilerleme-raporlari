@@ -2,6 +2,10 @@
 
 Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerlemeleri veya bu alanda gözlemlediği eksiklileri yıllık bazda ilerleme raporlarıyla değerlendirir. Komisyon, ilerleme raporlarının oluşturulması safhasında, aday ülke nezdindeki AB Delegasyonu'ndan, sivil toplum kuruluşlarından ve aday ülkenin kamu kurumlarından resmi olarak elde ettiği geri bildirimlerden istifade eder.
 
+## 2024 İlerleme Raporu
+
+30.10.2024 tarihinde yayınlanmıştır. [English](raporlar/2024.en.pdf)
+
 ## 2023 İlerleme Raporu
 
 08.11.2023 tarihinde yayınlanmıştır. [Türkçe](raporlar/2023.tr.pdf) / [English](raporlar/2023.en.pdf)
