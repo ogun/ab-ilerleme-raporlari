@@ -4,7 +4,7 @@ Avrupa Komisyonu, aday ülkenin müktesebata uyum alanında kaydettiği ilerleme
 
 ## 2024 İlerleme Raporu
 
-30.10.2024 tarihinde yayınlanmıştır. [English](raporlar/2024.en.pdf)
+30.10.2024 tarihinde yayınlanmıştır. [Türkçe](raporlar/2024.tr.pdf) / [English](raporlar/2024.en.pdf)
 
 ## 2023 İlerleme Raporu
 
